@@ -145,8 +145,8 @@ layui.define(['code', 'element', 'table', 'util', 'carousel', 'laytpl'], functio
       ,'<option value="modules/util.html">util 工具集</option>'
       ,'<option value="modules/code.html">code 代码文本行修饰</option>'
 
-      ,'<option value="/layui/www.layui.com/layim/index.html">layim</option>'
-      ,'<option value="/layui/www.layui.com/layuiadmin/index.html">layuiadmin</option>'
+      ,'<option value="/mypage/layui/www.layui.com/layim/index.html">layim</option>'
+      ,'<option value="/mypage/layui/www.layui.com/layuiadmin/index.html">layuiadmin</option>'
     ,'</select>'
     ,'<i class="layui-icon layui-icon-search"></i>'].join(''));
 
